@@ -1,10 +1,12 @@
-﻿namespace HW2_module3
+﻿using System.Globalization;
+
+namespace HW2_module3
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Starter.Start();
         }
     }
 }
